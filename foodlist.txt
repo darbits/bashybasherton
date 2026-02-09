@@ -1,1 +1,6 @@
 bananas
+raspberries
+muffin
+banana piece 120
+banan single 120
+banana single 120
